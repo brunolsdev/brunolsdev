@@ -1,18 +1,16 @@
 # 💫 About Me
 
-🔭 Estudante de ADS no último ano, focado em Python + FastAPI (back-end) e React (front-end).  
-🎯 Buscando estágio/júnior em desenvolvimento full-stack ou back-end.
+🔭 Estudante de ADS no último ano | Técnico em Informática pelo SENAC Tatuapé  
+🎯 Buscando meu primeiro estágio ou vaga júnior em TI
 
-🌱 Atualmente aprendendo: Python intermediário, FastAPI, estruturas de dados e integração Front + Back.
+🌱 Atualmente aprendendo: Python e Lógica de Programação — todo dia.
 
-💬 Pergunte-me sobre: Como começar em Python vindo do Front-end e como usar IA sem virar muleta.
+⚡ Uso IA como ferramenta de estudo — para revisar código e gerar desafios,
+mas sempre entendendo o que escrevo.
 
-⚡ Uso IA (Claude/Cursor) para acelerar, mas entendo e refatoro todo código.
-
-## 💻 Tech Stack
-**Front-end:** HTML, CSS, JavaScript, React  
-**Back-end:** Python, FastAPI (em aprendizado)  
-**Ferramentas:** Git, GitHub, VS Code
+## 💻 O que sei hoje
+**Conhecimentos:** Python (iniciante), Lógica de Programação  
+**Ferramentas:** GitHub, VS Code
 
 ## 🌐 Socials
 - LinkedIn: https://www.linkedin.com/in/bruno-lima-0b550631b/
